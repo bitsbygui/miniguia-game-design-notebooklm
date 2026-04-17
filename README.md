@@ -19,9 +19,8 @@ As seguintes fontes foram utilizadas no NotebookLM:
 
 1. https://gamedesignconcepts.wordpress.com/
 2. https://www.gdcvault.com/
-3. https://dl.acm.org/ (artigos sobre games)
-4. https://www.researchgate.net/ (papers sobre Game Design)
-5. https://en.wikipedia.org/wiki/Game_design
+3. https://www.researchgate.net/ (papers sobre Game Design)
+4. https://en.wikipedia.org/wiki/Game_design
 
 ## 🤖 Engenharia de Prompts e Aprendizados
 
